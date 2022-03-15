@@ -1,8 +1,0 @@
-{
-    "name": "ktria-v13-bos-altyapi",
-    "main": "ktria.js",
-    "author": "ktria",
-    "dependencies": {
-      "discord.js": "^13.0.1"
-    }
-  }
